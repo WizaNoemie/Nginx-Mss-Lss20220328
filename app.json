@@ -1,13 +1,13 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "Nginx-Mss-Lss20220328",
+  "description": "Nginx-Mss-Lss20220328",
   "keywords": [
     "vmess or vles"
   ],
   "env": {
     "PROTOCOL": {
       "description": "要部署的协议vmess或vless,请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "",
       "required": true
     },
     "UUID": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/WizaNoemie/Nginx-Mss-Lss20220328",
+  "repository": "https://github.com/WizaNoemie/Nginx-Mss-Lss20220328",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
